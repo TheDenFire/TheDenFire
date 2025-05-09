@@ -5,16 +5,4 @@
 
 <p align="left"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bots"> </p>
 
-
-public class CurrentProject {
-  public static void main(String[] args) {
-    Project petProject = new Project.Builder()
-        .withStack("Spring Boot")
-        .withFeature("RESTful API")
-        .withFeature("Telegram Bot")
-        .withDatabase("PostgreSQL")
-        .build();
-        
-    System.out.println("🚀 В процессе: " + petProject);
-  }
-}
+<p align="center"> <a href="https://t.me/thedenfire"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/thedenfire" alt="Telegram"> </a> </p> <div align="center"> <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="150px"> </div> ```
