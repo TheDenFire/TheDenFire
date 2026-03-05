@@ -16,5 +16,3 @@
 <p> <a href="https://t.me/thedenfire"> 
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/thedenfire" alt="Telegram"> </a> 
 </p> 
-
-<div align="center"> <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="150px"> </div>
